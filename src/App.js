@@ -1,9 +1,9 @@
 import React from "react";
 
-import ToDoList from "./ToDoList";
-import TodoItemCreator from "./TodoItemCreator";
-import TodoListFilters from "./TodoListFilters";
-import TodoListStats from "./TodoListStats";
+import ToDoList from "./components/ToDoList";
+import TodoItemCreator from "./components/TodoItemCreator";
+import TodoListFilters from "./components/TodoListFilters";
+import TodoListStats from "./components/TodoListStats";
 
 function App() {
 

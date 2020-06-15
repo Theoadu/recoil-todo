@@ -1,6 +1,6 @@
 import React from 'react'
 import {useRecoilValue} from 'recoil'
-import {todoListStatsState} from './recoil/todoSelector'
+import {todoListStatsState} from '../recoil/todoSelector'
 
 function TodoListStats() {
     const {

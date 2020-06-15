@@ -4,7 +4,7 @@ import { useRecoilValue } from "recoil";
 // import { todoListState } from "./recoil/todoAtom";
 
 import ToDoItem from "./ToDoItem";
-import { filteredTodoListState } from "./recoil/todoSelector";
+import { filteredTodoListState } from "../recoil/todoSelector";
 
 const ToDoList = () => {
 //   const todoList = useRecoilValue(todoListState);
